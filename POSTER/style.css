@@ -1,0 +1,70 @@
+img{
+  width: 50%;
+  display: inline;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  background-color: blue;
+}
+
+div{
+    
+    background-color: rgb(54, 42, 165);
+    margin-left: 100px;
+    margin-right: 100px;
+    display: block;
+}
+
+p{
+    display: block;
+    color:white;
+    padding-left: 10px;
+    margin: 0;
+    font-size: small;
+}
+
+body{
+    padding-left: 25%;
+    padding-right: 25%;
+    background-color: white;
+}
+
+#one{
+    display: block;
+    background-color: aqua;
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.one{
+    display: inline;
+    margin: 0;
+}
+
+h2{
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+hr{
+    padding-bottom: 0px;
+}
+
+* {
+  margin: 2px;
+  padding: 2px;
+  box-sizing: border-box;
+}
+
+.two{
+    color:aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: unset;
+    font-size: small;
+}
+
+
+
+
