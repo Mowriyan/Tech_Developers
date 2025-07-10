@@ -1,0 +1,62 @@
+.one{
+  
+  background-color: white;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  padding-left: 10px;
+
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: right;
+  margin-top: 10px;
+
+}
+
+nav ul li {
+  margin: 0 15px;
+  cursor: pointer;
+
+}
+
+nav{
+    display: inline;
+    margin: 0;
+    background-color: blueviolet;
+}
+
+.two{
+    display: flex;
+    column-gap: 20%;
+    grid-template-columns: none;
+    background-position: 0cap;
+    font-size: larger;
+    background-color: burlywood;
+    padding-left: 10px;
+}
+
+
+h1{
+  background-image: -webkit-image-set(flex);
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: fuchsia;  
+}
+
+.services{
+  display: flex;
+  width: 80%;
+}
+
+.bar{
+  height: 60%;
+  width: 50%;
+}
