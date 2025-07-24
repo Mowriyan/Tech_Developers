@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+develop{
+    border: 2px solid white;
+    border-radius: 4px;
+    margin: 20px 10%;
+    display: flex;
+    justify-content: flex-start;
+    background-color: white;
+    box-shadow: 0 4px 8px rgb(238, 3, 3);
+}
+
+.one {
+    background-color: antiquewhite;
+    margin: 2px;
+    padding: 15px;
+}
+
+.two {
+    padding: 15px;
+}
+
+.two p {
+    padding-left: 10px;
+}
+
+.one img {
+    width: 180px;
+    height: auto;
+}
+
+.one h2 {
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.one ul li {
+    list-style: none;
+}
+
+.three {
+    padding: 0px;
+    margin-left: 0;
+}
+
+.four {
+    padding: 0px;
+    padding-left: 20px;
+    padding-bottom: 98px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.five {
+    padding: 0px;
+    color: darkturquoise;
+}
+
+h3 {
+    padding-left: 10px;
+    padding-bottom: 4px;
+}
+
+.work {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Experience {
+    padding: 2px;
+}
